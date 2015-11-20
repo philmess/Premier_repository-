@@ -20,3 +20,7 @@ Nom du commit, en bas.
 J'enregistre
 Sur ma console, dans le repertoire modifié en ligne
 git pull origin master
+
+Astuce concernant les branches.
+Pour créer une branche et se positionner dessus en une seule commande
+git checkout -b ma-branche
