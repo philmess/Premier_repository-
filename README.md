@@ -12,7 +12,10 @@ Pur le vérifier:
 git status
 git log
 
-Après chaque modification à partir de GitHub:
+Pull
+Je peux modifier le fichier directement depuis GitHub.
+Click sur le fichier à moodifier. Click sur le stylo
+Après chaque modification en ligne depuis de GitHub:
 Nom du commit, en bas.
 J'enregistre
 Sur ma console, dans le repertoire modifié en ligne
